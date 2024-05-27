@@ -10,6 +10,6 @@ int main()
   cin >> name; 
     
   cout << "Entered name is: " <<  
-           name;  
+           name
     return 0; 
 }
